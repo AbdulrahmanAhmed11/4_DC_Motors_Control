@@ -1,13 +1,6 @@
 # 4_DC_Motors_Control
 Arduino-based 4WD robotic movement routine controlled via L293D motor driver for automated timed navigation.
 
-📌 **Project Files:**
-- [💻 Arduino Code (4WD_L293D_Movement.ino)](./4WD_L293D_Movement.ino)
-- [🖼️ Circuit Diagram Image](./Circuit_Diagram.png)
-- [🎥 Simulation Video](./simulation_video.mp4)
-
----
-
 ## 1. Description
 This repository contains a complete simulation and code implementation for controlling a 4-Wheel Drive (4WD) robotic chassis. Utilizing an Arduino Uno and an L293D Motor Driver IC, the system is programmed to autonomously execute a specific time-based movement routine:
 1. **Move Forward** for exactly 30 seconds.

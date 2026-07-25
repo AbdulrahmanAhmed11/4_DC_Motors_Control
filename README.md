@@ -3,7 +3,7 @@ Arduino-based 4WD robotic movement routine controlled via L293D motor driver for
 
 📌 **Project Files:**
 - [💻 Arduino Code (4WD_L293D_Movement.ino)](./4WD_L293D_Movement.ino)
-- [🖼️ Circuit Diagram Image](./circuit_diagram.png)
+- [🖼️ Circuit Diagram Image](./Circuit_Diagram.png)
 - [🎥 Simulation Video](./simulation_video.mp4)
 
 ---

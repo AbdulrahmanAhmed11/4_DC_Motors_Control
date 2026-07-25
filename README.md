@@ -28,10 +28,10 @@ Below is the correct wiring schematic implemented in TinkerCAD:
 
 <img width="1650" height="849" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/669ced68-8db7-429f-a115-601211672e75" />
 
+## 5. TinkerCAD Live Simulation
+You can view, inspect the circuit, and run the simulation directly through the following link:
 
-
-## 5. Simulation Video
-The following video demonstrates the time-based automated execution of the code:
+🔗 **[Click Here to Open the TinkerCAD Project](https://www.tinkercad.com/things/8UCO1oiU0n5-4dcmotorscontrol/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)**
 
 
 
